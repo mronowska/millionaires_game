@@ -1,5 +1,5 @@
 # millionaires_game
-##Mililionaires game using Python, modules and Faker  
+## Mililionaires game using Python, modules and Faker  
 
 ### Millionaires
 In this game you have to answer 12 questions correctly. There are 3 lifebuoys to choose from: a phone call to a friend, an audience hint, and the rejection of two incorrect answers.
